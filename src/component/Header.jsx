@@ -26,6 +26,14 @@ const Header = () => {
                                             
                                         </li>
 
+                                        <li class="nav-item">
+                                            <a class="nav-link active" aria-current="page" href="/delete">Delete</a>
+                                            
+                                        </li>
+
+
+
+
 
                                     </ul>
 
